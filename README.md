@@ -1,5 +1,5 @@
 ## Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning
-[![DOI](https://zenodo.org/badge/415350886.svg)](https://zenodo.org/badge/latestdoi/415350886) 
+[![DOI](https://zenodo.org/badge/416091196.svg)](https://zenodo.org/badge/latestdoi/416091196)
 
 ## Authors
 
