@@ -5,10 +5,8 @@
 
 Haodi Jiang, Jiasheng Wang, Chang Liu, Ju Jing, Hao Liu, Jason T. L. Wang and Haimin Wang
 
-## Contributors
+## Contributor
 Yasser Abduallah
-
-#### Institute for Space Weather Sciences, New Jersey Institute of Technology
 
 
 ## Abstract
@@ -30,23 +28,23 @@ and complementing SWAMIS in tracking long-lifetime features.
 Thus, the proposed physics-guided deep learning-based tool 
 can be considered as an alternative method for solar magnetic tracking.
 
-## Keywords
-Solar magnetic fields, Solar photosphere, Convolutional
-neural networks
-
 ## Binder
 
-These notebooks are Binder enabled and can be run on [mybinder.org](https://mybinder.org/) for free using the links below
+These notebooks are Binder enabled and can be run on [mybinder.org](https://mybinder.org/) for free using the links below.
 
 ### run_SolarUnet.ipynb (Jupyter Notebook for SolarUnet)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
-##### Please note that starting Binder might take sometimes to create and start the image.
+
+Please note that starting Binder might take some time to create and start the image.
+
+For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/SolarUnet-magnetic-tracking]https://github.com/deepsuncode/SolarUnet-magnetic-tracking
+
 
 ## Installation on local machine
 
 |Library | Version   | Description  |
 |---|---|---|
-|astropy|4.0.1|Astronomy and Astrophysics data processing|
+|astropy|4.0.1|Astronomy and astrophysics data processing|
 |cv2| 3.4.2| Image processing|
 | keras  | 2.2.4   |Artificial neural networks API   |
 |matplotlib|3.1.0| Plotting and graphs|
@@ -56,13 +54,3 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 | scipy  | 1.2.0  |Science and math   |
 | tensorflow  | 1.2.0  | Neural network libraries  |
 
-
-## References:
-
-Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning. H. Jiang, J. Wang, C. Liu, J. Jing, H. Liu, J. T. L. Wang, H. Wang, ApJS, 250:5, 2020.
-
-https://iopscience.iop.org/article/10.3847/1538-4365/aba4aa
-
-http://arxiv.org/abs/2008.12080
-
-https://web.njit.edu/~wangj/SolarUnet/
