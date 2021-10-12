@@ -37,7 +37,7 @@ These notebooks are Binder enabled and can be run on [mybinder.org](https://mybi
 
 Please note that starting Binder might take some time to create and start the image.
 
-For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/SolarUnet-magnetic-tracking]https://github.com/deepsuncode/SolarUnet-magnetic-tracking
+For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/SolarUnet-magnetic-tracking](https://github.com/deepsuncode/SolarUnet-magnetic-tracking)
 
 
 ## Installation on local machine
