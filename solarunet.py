@@ -29,7 +29,6 @@ except Exception as e:
 stderr = sys.stderr
 sys.stderr = open(os.devnull, 'w')
 import cv2
-import matplotlib
 import skimage.io as io
 import skimage.transform as trans
 from astropy.io import fits
@@ -39,7 +38,6 @@ from keras.models import *
 from keras.optimizers import *
 from keras.preprocessing.image import ImageDataGenerator
 sys.stderr = stderr
-matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import matplotlib.colors as mpcolor
