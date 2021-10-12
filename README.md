@@ -45,13 +45,13 @@ For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/Sol
 
 |Library | Version   | Description  |
 |---|---|---|
-|astropy|4.0.1|Astronomy and astrophysics data processing|
-|cv2| 3.4.2| Image processing|
-| keras  | 2.2.4   |Artificial neural networks API   |
-|matplotlib|3.1.0| Plotting and graphs|
-|numpy| 1.2.0| Array manipulation|
-|scikit-image| 0.15.0| Image processing|
-|scikit-learn| 0.15.0| Machine learning|
-| scipy  | 1.2.0  |Science and math   |
-| tensorflow  | 1.2.0  | Neural network libraries  |
+|astropy|4.2.1|Astronomy and astrophysics data processing|
+|cv2| 4.5.2.54| Image processing|
+| keras  | 2.4.3   |Artificial neural networks API   |
+|matplotlib|3.4.2| Plotting and graphs|
+|numpy| 1.19.0| Array manipulation|
+|scikit-image| 0.18.0| Image processing|
+|scikit-learn| 0.24.2| Machine learning|
+| scipy  | 1.7.0  |Science and math   |
+| tensorflow  | 2.4.0  | Neural network libraries  |
 
