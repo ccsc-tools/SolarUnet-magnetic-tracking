@@ -40,6 +40,7 @@ Please note that starting Binder might take some time to create and start the im
 For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/SolarUnet-magnetic-tracking](https://github.com/deepsuncode/SolarUnet-magnetic-tracking)
 
 
+
 ## Installation on local machine
 
 |Library | Version   | Description  |
