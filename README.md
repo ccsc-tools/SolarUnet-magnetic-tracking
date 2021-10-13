@@ -30,10 +30,11 @@ can be considered as an alternative method for solar magnetic tracking.
 
 ## Binder
 
-These notebooks are Binder enabled and can be run on [mybinder.org](https://mybinder.org/) for free using the links below.
+This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
+
 
 ### run_SolarUnet.ipynb (Jupyter Notebook for SolarUnet)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) (For accessing a jupyter lab environment to interact with the notebook)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/SolarUnet-magnetic-tracking/HEAD?labpath=run_SolarUnet.ipynb) 
 
 Please note that starting Binder might take some time to create and start the image.
 
