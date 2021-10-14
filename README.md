@@ -54,3 +54,10 @@ For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/Sol
 | scipy  | 1.7.0  |Science and math   |
 | tensorflow  | 2.4.0  | Neural network libraries  |
 
+## References
+Identifying and Tracking Solar Magnetic Flux Elements with Deep Learning. H. Jiang, J. Wang, C. Liu, J. Jing, H. Liu, J. T. L. Wang, H. Wang, ApJS, 250:5, 2020.
+https://iopscience.iop.org/article/10.3847/1538-4365/aba4aa
+
+http://arxiv.org/abs/2008.12080
+
+https://web.njit.edu/~wangj/SolarUnet/
