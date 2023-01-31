@@ -41,7 +41,7 @@ Please note that starting Binder might take some time to create and start the im
 For the latest updates of SolarUnet refer to [https://github.com/deepsuncode/SolarUnet-magnetic-tracking](https://github.com/deepsuncode/SolarUnet-magnetic-tracking)
 
 ## Installation on local machine
-
+Note: Tested on Python version 3.9.13
 |Library | Version   | Description  |
 |---|---|---|
 |astropy|5.1  |Astronomy and astrophysics data processing|
